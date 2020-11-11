@@ -1,2 +1,2 @@
-FROM apachepulsar/pulsar:2.5.1
+FROM apachepulsar/pulsar:2.6.2
 CMD ["bin/pulsar", "standalone"]
